@@ -76,7 +76,7 @@ isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.14.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 json5==0.9.1
 jsonschema==3.2.0
@@ -147,7 +147,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.5
 pydocstyle==4.0.1
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
@@ -166,7 +166,7 @@ python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
 pytz==2019.3
 PyWavelets==1.1.1
-PyYAML==5.3
+PyYAML==5.3.1
 pyzmq==18.1.1
 QDarkStyle==2.8
 QtAwesome==0.6.1
