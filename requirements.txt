@@ -37,7 +37,7 @@ conda-build==3.18.11
 conda-package-handling==1.6.0
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
-cryptography==2.8
+cryptography==41.0.5
 cycler==0.10.0
 Cython==0.29.15
 cytoolz==0.10.1
@@ -215,7 +215,7 @@ urllib3==1.25.8
 watchdog==0.10.2
 wcwidth==0.1.8
 webencodings==0.5.1
-Werkzeug==1.0.0
+Werkzeug==3.0.1
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 wurlitzer==2.0.0
