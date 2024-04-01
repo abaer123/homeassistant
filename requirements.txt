@@ -131,7 +131,7 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==10.3.0
 pkginfo==1.5.0.1
 pluggy==0.13.1
 ply==3.11
@@ -148,7 +148,7 @@ pycurl==7.43.0.5
 pydocstyle==4.0.1
 pyflakes==2.1.1
 Pygments==2.5.2
-pylint==2.4.4
+pylint==2.6.1
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
