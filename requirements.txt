@@ -55,7 +55,7 @@ flake8==3.7.9
 Flask==1.1.1
 fsspec==0.6.2
 future==0.18.2
-gevent==1.4.0
+gevent==25.4.1
 glob2==0.7
 gmpy2==2.0.8
 greenlet==0.4.15
@@ -227,3 +227,4 @@ xmltodict==0.12.0
 yapf==0.28.0
 zict==1.0.0
 zipp==2.2.0
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
